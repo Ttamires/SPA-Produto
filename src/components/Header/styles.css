@@ -1,0 +1,30 @@
+.container-main {
+    background-color: #d2691e;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding: 0 7%;
+    height: 100px;
+  }
+  
+  .container-main ul {
+    list-style: none;
+    display: flex;
+  }  
+  
+  .container-main ul li {
+    padding: 0 20px;
+  }
+  
+  .container-main ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  .container-main img{ 
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+    align-items: left;
+  }
+  

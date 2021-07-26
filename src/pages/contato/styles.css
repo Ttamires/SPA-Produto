@@ -1,0 +1,15 @@
+
+.container-contato {
+    height: calc(100vh - 130px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5e4cf;
+  }
+  .contato{ 
+    color: rgb(2, 2, 2);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
